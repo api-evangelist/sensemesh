@@ -46,7 +46,7 @@ tags:
 - Company
 - Physical Security
 - Sensor Fusion
-- Computer-Vision
+- Computer Vision
 - Drones
 - Artificial Intelligence
 - Surveillance
@@ -60,6 +60,7 @@ tags_raw:
 - Artificial Intelligence
 - Surveillance
 - Public Safety
+- Computer-Vision
 apis: []
 common:
 - type: Website
